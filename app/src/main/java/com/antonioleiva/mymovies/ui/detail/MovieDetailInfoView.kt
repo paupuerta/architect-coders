@@ -1,4 +1,4 @@
-package com.antonioleiva.mymovies.ui
+package com.antonioleiva.mymovies.ui.detail
 
 import android.content.Context
 import android.util.AttributeSet

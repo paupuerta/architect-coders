@@ -1,4 +1,4 @@
-package com.antonioleiva.mymovies.model
+package com.antonioleiva.mymovies.model.server
 
 import kotlinx.coroutines.Deferred
 import retrofit2.http.GET

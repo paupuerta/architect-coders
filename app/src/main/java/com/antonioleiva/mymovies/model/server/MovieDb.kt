@@ -1,4 +1,4 @@
-package com.antonioleiva.mymovies.model
+package com.antonioleiva.mymovies.model.server
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import okhttp3.OkHttpClient
